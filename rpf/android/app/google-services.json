@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "291517706187",
+    "project_id": "android-apps-6285e",
+    "storage_bucket": "android-apps-6285e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291517706187:android:03df3754b61255851ed04e",
+        "android_client_info": {
+          "package_name": "com.freetime.appstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxJSOl2Y4VZlL0m_1XWpI9VQl7BQLOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291517706187:android:fdeddfd2ca51eea41ed04e",
+        "android_client_info": {
+          "package_name": "com.freetime.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxJSOl2Y4VZlL0m_1XWpI9VQl7BQLOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291517706187:android:77fa1df1627e8cb61ed04e",
+        "android_client_info": {
+          "package_name": "com.freetime.kpdh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxJSOl2Y4VZlL0m_1XWpI9VQl7BQLOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291517706187:android:e36811e814f6741c1ed04e",
+        "android_client_info": {
+          "package_name": "com.freetime.kpdhj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxJSOl2Y4VZlL0m_1XWpI9VQl7BQLOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291517706187:android:e77865e909eec3331ed04e",
+        "android_client_info": {
+          "package_name": "com.freetime.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxJSOl2Y4VZlL0m_1XWpI9VQl7BQLOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291517706187:android:2d62f24e29d13f181ed04e",
+        "android_client_info": {
+          "package_name": "com.freetime.rpf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxJSOl2Y4VZlL0m_1XWpI9VQl7BQLOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291517706187:android:a1dd250d29a4b6ab1ed04e",
+        "android_client_info": {
+          "package_name": "com.freetime.rpj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxJSOl2Y4VZlL0m_1XWpI9VQl7BQLOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291517706187:android:96e4ec6937758dc71ed04e",
+        "android_client_info": {
+          "package_name": "com.freetime.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxJSOl2Y4VZlL0m_1XWpI9VQl7BQLOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291517706187:android:b4f0d44f42e4ebe31ed04e",
+        "android_client_info": {
+          "package_name": "com.freetime.swiss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxJSOl2Y4VZlL0m_1XWpI9VQl7BQLOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
