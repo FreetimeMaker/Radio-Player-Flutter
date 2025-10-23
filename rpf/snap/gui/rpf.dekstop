@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Radio Player (Flutter)
+Exec=radio_player_flutter
+Icon=icon
+Type=Application
+Categories=Audio;Player;
+StartupNotify=true
+Terminal=false
