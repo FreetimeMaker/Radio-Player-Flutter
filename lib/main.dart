@@ -125,9 +125,6 @@ class _RadioPlayerScreenState extends State<RadioPlayerScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: null, // or remove AppBar entirely
-      ),
       body: SingleChildScrollView(
         child: Column(
           children: _stations.map(_buildStationRow).toList(),
