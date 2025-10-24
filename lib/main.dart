@@ -122,12 +122,11 @@ class _RadioPlayerScreenState extends State<RadioPlayerScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Radio Player (Flutter)")),
+      appBar: AppBar(title: null));
       body: SingleChildScrollView(
-        child: Column(
-          children: _stations.map(_buildStationRow).toList(),
-        ),
+      child: Column(
+        children: _stations.map(_buildStationRow).toList(),
       ),
-    );
+    ),
   }
 }
